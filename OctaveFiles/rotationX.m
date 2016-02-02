@@ -1,4 +1,6 @@
-%Rotation Matrix about x-axis
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Rotation Matrix about x-axis %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function rotationMatrix = rotationX (angle)
 % 2/2/2016
  
